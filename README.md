@@ -8,7 +8,7 @@ Right now I'm learning C by trying to code a compiler for my own programming lan
 
 Most of my projects are hosted in my own organization [lucr4ft](https://github.com/lucr4ft) on Github and some on my own Github page.
 
-You can find a list of all my projects [here](./projects)
+You can find a list of all my projects [here](./projects.md)
 
 ### Programming languages I use
 - Java (and Kotlin)
